@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi human!
+I am new to Github and open source coding . Lets see where it takes us.
